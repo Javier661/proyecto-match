@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "amigos",
-    "slug": "amigos",
+    "slug": "proyecto-amigos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "475cfd82-1353-4a8a-9128-ffbcfcfc6234"
+      }
+    },
+    "owner": "javier66145"
   }
 }
